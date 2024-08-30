@@ -1,0 +1,4 @@
+repository "MechaRunner@Zedro_Pilves@cloud"
+  path "/"
+    br "/main"
+    co "/main"
